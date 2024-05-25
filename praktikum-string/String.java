@@ -1,4 +1,4 @@
-public class MethodString {
+public class String {
     public static void main(String[] args) {
         String name = "Coding All String  ";
         System.out.println("Panjang string: " + name.length());
